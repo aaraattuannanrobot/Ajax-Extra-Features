@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/MMOTTMOVIES')
+                InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/CINEMA_CORNER_MOVIES')
             ],
             [
                 InlineKeyboardButton('♻️ HΞLᎮ ♻️', url=f"https://t.me/{temp.U_NAME}?start=help")
@@ -44,8 +44,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/MMOTTMOVIES'),
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/MMOTTMOVIE')         
+            InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/CINEMA_CORNER_MOVIES'),
+            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/+ZuMyUJY6Tik5ZjM1')         
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
@@ -87,14 +87,14 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/MMOTTMOVIES'),
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/MMOTTMOVIE')         
+            InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/CINEMA_CORNER_MOVIES'),
+            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/+ZuMyUJY6Tik5ZjM1')         
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
             InlineKeyboardButton('💠 SΞΛᏒCH HΞᏒΞ 💠', switch_inline_query_current_chat='')
-        ]]
+        ]]  
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
             photo=random.choice(PICS),
