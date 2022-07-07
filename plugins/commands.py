@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/CINEMA_CORNER_MOVIES')
+                InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/MMOTTMOVIES')
             ],
             [
                 InlineKeyboardButton('♻️ HΞLᎮ ♻️', url=f"https://t.me/{temp.U_NAME}?start=help")
@@ -44,11 +44,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 GᏒԾUᎮ 1 💠', url='https://t.me/CINEMA_CORNER_MOVIES'),
-            InlineKeyboardButton('💠 GᏒԾUᎮ 2 💠', url='https://t.me/cinemavilla_group')         
-            ],[
-            InlineKeyboardButton('💠 MAIN CHΛИИΞL 💠 ', url='https://t.me/+P4e0IpFUubU0NTY1'),
-            InlineKeyboardButton('💠 UPDATE CHΛИИΞL  💠', url='https://t.me/Madara_Updates')         
+            InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/MMOTTMOVIES'),
+            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/MMOTTMOVIE')         
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
@@ -90,17 +87,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 GᏒԾUᎮ 1 💠', url='https://t.me/CINEMA_CORNER_MOVIES'),
-            InlineKeyboardButton('💠 GᏒԾUᎮ 2 💠', url='https://t.me/cinemavilla_group')         
-            ],[
-            InlineKeyboardButton('💠 MAIN CHΛИИΞL 💠 ', url='https://t.me/+P4e0IpFUubU0NTY1'),
-            InlineKeyboardButton('💠 UPDATE CHΛИИΞL  💠', url='https://t.me/Madara_Updates')         
+            InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/MMOTTMOVIES'),
+            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/MMOTTMOVIE')         
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
             InlineKeyboardButton('💠 SΞΛᏒCH HΞᏒΞ 💠', switch_inline_query_current_chat='')
-        ]]  oardButton('💠 SΞΛᏒCH HΞᏒΞ 💠', switch_inline_query_current_chat='')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
