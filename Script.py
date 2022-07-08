@@ -7,7 +7,7 @@ class script(object):
 ✴️𝙏𝙝𝙚𝙣 𝙎𝙚𝙚 𝙈𝙮 𝙋𝙤𝙬𝙚𝙧𝙨 𝙊𝙣 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥✨️
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
- ©️MᴀɪɴᴛᴀɪɴᴇD Bʏ:<a href=https://t.me/cinemavilla_group >𝐂𝐢𝐧𝐞𝐦𝐚 𝐕𝐢𝐥𝐥𝐚🎬 [𝑴𝒐𝒗𝒊𝒆𝒔 & 𝑺𝒆𝒓𝒊𝒆𝒔]</a> """
+ ©️MᴀɪɴᴛᴀɪɴᴇD Bʏ:<a href=https://t.me/CINEMA_CORNER_MOVIES >𝗰𝗶𝗻𝗲𝗺𝗮 𝗰𝗼𝗿𝗻𝗲𝗿🎬 [𝑴𝒐𝒗𝒊𝒆𝒔 & 𝑺𝒆𝒓𝒊𝒆𝒔]</a> """
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✮ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
