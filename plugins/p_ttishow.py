@@ -41,7 +41,7 @@ async def save_group(bot, message):
                 InlineKeyboardButton('⚡ HΞLᎮ ⚡', url=f"https://t.me/{temp.U_NAME}?start=help")
             ],
             [
-                InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/CINEMAVILLA_GROUP')
+                InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/CINEMA_CORNER_MOVIES_CCM')
             ]
             ]
         reply_markup=InlineKeyboardMarkup(buttons)
