@@ -5,9 +5,7 @@ class script(object):
 ✴️ 𝙈𝙖𝙠𝙚 𝙈𝙚 𝘼𝙨 𝘼𝙙𝙢𝙞𝙣
 ✴️ 𝙄 𝙒𝙄𝙇𝙇 𝙋𝙧𝙤𝙫𝙞𝙙𝙚 𝙈𝙊𝙑𝙄𝙀𝙎 𝙏𝙝𝙚𝙧𝙚
 ✴️𝙏𝙝𝙚𝙣 𝙎𝙚𝙚 𝙈𝙮 𝙋𝙤𝙬𝙚𝙧𝙨 𝙊𝙣 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥✨️
-➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
-
- ©️MᴀɪɴᴛᴀɪɴᴇD Bʏ:<a href=https://t.me/ALANWALKER_TG >ALAN WALKER TG</a> """
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖ """
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✮ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
@@ -66,8 +64,7 @@ t𝗋𝗒 𝗍𝗁𝗂𝗌 𝖮𝗎𝗍:
 𝟤. /Throw 𝗈𝗋 /Dart - 𝖳𝗈 𝖬𝖺𝗄𝖾 Drat 
 3. /Runs - Jokes 
 4. /Goal or /Shoot - To Make A Goal Or Shoot
-5. /luck or /cownd - Spin the Lucky
-𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/ALANWALKER_TG >ALAN WALKER TG</a>"""
+5. /luck or /cownd - Spin the Lucky</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 - Filter is the feature were users can set automated replies for a particular keyword and ᗩᒍᗩ᙭  will respond whenever a keyword is found the message
 <b>NOTE:</b>
@@ -86,8 +83,7 @@ Song Download Module, For Those Who Love Music
 - /song [Song Name] - To Download Music 😁
 <b>🌀Usage🌀</b>
 - Can Be Used By Everyone
-- Works in bot pm
-Made By<a href=https://t.me/ALANWALKER_TG >ALAN WALKER TG</a>"""
+- Works in bot pm"""
     PIN_TXT ="""<b>PIN MODULE</b>
 <b>Pin :</b>
 <b>All The Pin Related Commands Can Be Found Here; Keep Your Chat Up To Date On The Latest News With A Simple Pinned Message!</b>
@@ -145,10 +141,10 @@ Delete A Lot Of Messages From Groups!
 -ᗩᒍᗩ᙭  Supports both url and alert inline buttons.
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. ᗩᒍᗩ᙭ supports buttons with any telegram media type.
+2. ROCKY supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/CINEMAVILLA_GROUP)</code>
+<code>[Button Text](buttonurl: https://t.me/moviesrockenrolll )</code>
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
     AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
