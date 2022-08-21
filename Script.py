@@ -7,7 +7,7 @@ class script(object):
 ✴️𝙏𝙝𝙚𝙣 𝙎𝙚𝙚 𝙈𝙮 𝙋𝙤𝙬𝙚𝙧𝙨 𝙊𝙣 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥✨️
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
- ©️MᴀɪɴᴛᴀɪɴᴇD Bʏ:<a href=https://t.me/ALANWALKER_TG >ALAN WALKER TG</a> """
+ ©️MᴀɪɴᴛᴀɪɴᴇD Bʏ:<a href=@oreoolspecialone>꧁•ᬼ̩༒𝘀𝗽𝗲𝗰𝗶𝗮𝗹_𝗼𝗻𝗲 ༒•ᬼ̩</a> """
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✮ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
@@ -26,7 +26,7 @@ class script(object):
 ✮ 𝗣𝗵𝗼𝗻𝗲𝗣𝗲
 ✮ 𝗣𝗮𝘆𝗣𝗮𝗹
 _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐈𝐧𝐟𝐨_
-━━━━━━━━━━━━᚜ <a href=https://t.me/ALANWALKER_TG >ALAN WALKER TG</a> ᚛━━━━━━━━━━━━
+━━━━━━━━━━━━<a href=@oreoolspecialone>꧁•ᬼ̩༒𝘀𝗽𝗲𝗰𝗶𝗮𝗹_𝗼𝗻𝗲 ༒•ᬼ̩</a>━━━━━━━━━━━━
 ›› <b>𝐏𝐚𝐢𝐝 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧</b>
 ⪼ <b>𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐖𝐡𝐢𝐜𝐡 𝐘𝐨𝐮 𝐖𝐚𝐧𝐭 𝐓𝐨 𝐏𝐫𝐨𝐦𝐨𝐭𝐞 . 
 <b>━━━━━━━━━᚜ Payment Methods ᚛━━━━━━━━━
@@ -44,7 +44,7 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 ✮ 𝗣𝗵𝗼𝗻𝗲𝗣𝗲
 ✮ 𝗣𝗮𝘆𝗣𝗮𝗹
 _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐀𝐧𝐝 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐈𝐧𝐟𝐨_
-━━━━━━━━━━━━᚜ <a href=https://t.me/ALANWALKER_TG >ALAN WALKER TG</a> ᚛━━━━━━━━━━━━""" 
+━━━━━━━━━━━━᚜<a href=@oreoolspecialone>꧁•ᬼ̩༒𝘀𝗽𝗲𝗰𝗶𝗮𝗹_𝗼𝗻𝗲 ༒•ᬼ̩</a>᚛━━━━━━━━━━━━""" 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 <b>By Using This Module You can store files in My database and I will You A Permanent link To access The saved Files.If You want to add files from a Public channel send the file link only or You want to store files from a Private channel you must make me admin on their to access files files.../</b>
 ⪼ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞 ›
@@ -57,7 +57,7 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 •/whois :-give a user full details
-𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/ALANWALKER_TG >ALAN WALKER TG</a>"""
+𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=@oreoolspecialone>꧁•ᬼ̩༒𝘀𝗽𝗲𝗰𝗶𝗮𝗹_𝗼𝗻𝗲 ༒•ᬼ̩</a>"""
     FUN_TXT ="""<b>Gᴀᴍᴇs</b> 
     
 <b>🎲 NOTHING MUCH JUST SOME FUN THINGS</b>
@@ -67,7 +67,7 @@ t𝗋𝗒 𝗍𝗁𝗂𝗌 𝖮𝗎𝗍:
 3. /Runs - Jokes 
 4. /Goal or /Shoot - To Make A Goal Or Shoot
 5. /luck or /cownd - Spin the Lucky
-𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/ALANWALKER_TG >ALAN WALKER TG</a>"""
+𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=@oreoolspecialone>꧁•ᬼ̩༒𝘀𝗽𝗲𝗰𝗶𝗮𝗹_𝗼𝗻𝗲 ༒•ᬼ̩</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 - Filter is the feature were users can set automated replies for a particular keyword and ᗩᒍᗩ᙭  will respond whenever a keyword is found the message
 <b>NOTE:</b>
@@ -79,7 +79,7 @@ t𝗋𝗒 𝗍𝗁𝗂𝗌 𝖮𝗎𝗍:
 • /filters - <code>list all the filters of a chat</code>
 • /del - <code>delete a specific filter in chat</code>
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>
-𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/ALANWALKER_TG >ALAN WALKER TG</a>"""
+𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=@oreoolspecialone>꧁•ᬼ̩༒𝘀𝗽𝗲𝗰𝗶𝗮𝗹_𝗼𝗻𝗲 ༒•ᬼ̩</a>"""
     SONG_TXT = """<b>🎼Song Download🎼</b>
 Song Download Module, For Those Who Love Music
 <b>🎈 Command 🎈</b>
@@ -87,7 +87,7 @@ Song Download Module, For Those Who Love Music
 <b>🌀Usage🌀</b>
 - Can Be Used By Everyone
 - Works in bot pm
-Made By<a href=https://t.me/ALANWALKER_TG >ALAN WALKER TG</a>"""
+Made By<a href=@oreoolspecialone>꧁•ᬼ̩༒𝘀𝗽𝗲𝗰𝗶𝗮𝗹_𝗼𝗻𝗲 ༒•ᬼ̩</a>"""
     PIN_TXT ="""<b>PIN MODULE</b>
 <b>Pin :</b>
 <b>All The Pin Related Commands Can Be Found Here; Keep Your Chat Up To Date On The Latest News With A Simple Pinned Message!</b>
